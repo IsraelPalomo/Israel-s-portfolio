@@ -44,3 +44,5 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+# Israel-s-portfolio
+A personal portfolio website showcasing my professional experience, technical skills, and a curated selection of both personal and work-related projects. Designed to highlight my growth, creativity, and expertise across different areas of software development and craftsmanship.
